@@ -6,7 +6,7 @@ Created on Mon Nov 23 15:08:07 2020
 """
 
 import math
-list1= [136,1425,542,15,2020,2000,9999]
+list1= [136.0,1425.0,542.0,15.0,2020.0,2000.0,9999.0]
 i=0
 for i in range(len(list1)):
     print(list1[i])
